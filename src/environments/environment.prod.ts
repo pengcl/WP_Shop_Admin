@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  webHost: 'http://wap.danius.cn'
+  webHost: 'http://wx.dutyhb.com'
 };
